@@ -122,8 +122,6 @@ Results from the jobsheet steps 5, 8, and 9:
 | (4, 2) | 4 lines of 2 stars |
 | (1, 5) | 1 line of 5 stars |
 
-![Inner loop only, rows = 3, columns = 6](gambar/exp2-inner-on.png)
-
 ![rows = 3, columns = 6](gambar/3x6Rectangle.png)
 
 ![rows = 4, columns = 2](gambar/4x2Rectangle.png)
