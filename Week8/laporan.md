@@ -4,13 +4,11 @@
 
 | Item | Detail |
 |---|---|
-| Name | [NAME] |
-| Student number | [STUDENT NUMBER] |
-| Class | [CLASS] |
-| Course | [COURSE NAME] |
-| Lecturer | [LECTURER NAME] |
-| Practicum date | [DATE] |
-
+| Name | M. Thoriq aadila D. |
+| Student number | 264107020035 |
+| Class | 1I |
+| Course | Basic Programming |
+| Lecturer | Mr. Imam |
 ## Objectives
 
 - Understand what a nested loop is in an algorithm.
@@ -356,7 +354,7 @@ public class Task1StudentNo {
 }
 ```
 
-![Task1StudentNo, n = 5](gambar/task1.png)
+![Task1StudentNo, n = 5](gambar/TaskStudent1.png)
 
 ### Assignment 2: Multiplication Table
 
@@ -393,7 +391,7 @@ public class Task2StudentNo {
 }
 ```
 
-![Task2StudentNo, n = 4](gambar/task2.png)
+![Task2StudentNo, n = 4](gambar/TaskStudent2.png)
 
 ### Assignment 3: Sales Recap for Several Stores
 
@@ -463,7 +461,7 @@ public class Task3StudentNo {
 }
 ```
 
-![Task3StudentNo, jobsheet example (2 stores)](gambar/task3.png)
+![Task3StudentNo, jobsheet example (2 stores)](gambar/Store2.png)
 
 ## Answers to Questions
 
