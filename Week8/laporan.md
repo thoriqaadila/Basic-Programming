@@ -73,11 +73,11 @@ Results from the jobsheet steps 9 and 10 (the number of stars matches the number
 | 3 | 3 |
 | 7 | 7 |
 
-![Output StarStudentNo n = 5](gambar/exp1-n5.png)
+![Output StarStudentNo n = 5](gambar/StarStudentN3.png)
 
-![Output StarStudentNo n = 3](gambar/exp1-n3.png)
+![Output StarStudentNo n = 3](gambar/StarStudentN5.png)
 
-![Output StarStudentNo n = 7](gambar/exp1-n7.png)
+![Output StarStudentNo n = 7](gambar/StarStudentN7.png)
 
 ### Experiment 2: Rectangle Star Pattern (Nested FOR)
 
@@ -122,15 +122,15 @@ Results from the jobsheet steps 5, 8, and 9:
 | (4, 2) | 4 lines of 2 stars |
 | (1, 5) | 1 line of 5 stars |
 
-![Inner loop only, rows = 3, columns = 6](gambar/exp2-inner-only.png)
+![Inner loop only, rows = 3, columns = 6](gambar/exp2-inner-on.png)
 
-![rows = 3, columns = 6](gambar/exp2-3x6.png)
+![rows = 3, columns = 6](gambar/3x6Rectangle.png)
 
-![rows = 4, columns = 2](gambar/exp2-4x2.png)
+![rows = 4, columns = 2](gambar/4x2Rectangle.png)
 
-![rows = 1, columns = 5](gambar/exp2-1x5.png)
+![rows = 1, columns = 5](gambar/1x5Rectangle.png)
 
-![Printed character changed to #](gambar/exp2-hash.png)
+![Printed character changed to #](gambar/Changedto#.png)
 
 ### Experiment 3: Debugging a Star Triangle (Nested WHILE)
 
@@ -220,17 +220,17 @@ Fixes from the jobsheet step 6:
 
 The inverted triangle uses a second nested `while` with `i = n;` (no `int`, because `i` already exists). The outer loop counts down from `n` to 1, and the inner loop prints `i` stars in each row.
 
-![Starter code, n = 3](gambar/exp3-starter-n3.png)
+![Starter code, n = 3](gambar/Triangle3.png)
 
-![Starter code, n = 5](gambar/exp3-starter-n5.png)
+![Starter code, n = 5](gambar/Triangle5.png)
 
-![Debug line, n = 5](gambar/exp3-debug.png)
+![Debug line, n = 5](gambar/InvertedTriangle.png)
 
-![After adding println, empty first line](gambar/exp3-println.png)
+![After adding println, empty first line](gambar/AddSout.png)
 
-![Final fix, triangle n = 5](gambar/exp3-final.png)
+![Final fix, triangle n = 5](gambar/Triangle5.png)
 
-![Triangle and inverted triangle, n = 5](gambar/exp3-inverted.png)
+![Triangle and inverted triangle, n = 5](gambar/TriangleandInverted.png)
 
 ### Experiment 4: Case Study of Group Project Scores
 
@@ -315,11 +315,11 @@ Test cases from the jobsheet:
 | 2 groups, 3 graders | The program prints an average for each group and the best group. |
 | 0 groups | The program prints `Groups and graders must be > 0.` |
 
-![3 groups, 2 graders, invalid score 105](gambar/exp4-3g2r.png)
+![3 groups, 2 graders, invalid score 105](gambar/105Score.png)
 
-![2 groups, 3 graders](gambar/exp4-2g3r.png)
+![2 groups, 3 graders](gambar/Group2grade3.png)
 
-![Number of groups = 0](gambar/exp4-zero.png)
+![Number of groups = 0](gambar/Group0.png)
 
 ### Assignment 1: Nested Number Pattern
 
