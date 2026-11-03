@@ -130,7 +130,7 @@ Results from the jobsheet steps 5, 8, and 9:
 
 ![rows = 1, columns = 5](gambar/1x5Rectangle.png)
 
-![Printed character changed to #](gambar/Changedto#.png)
+![Printed character changed to #](gambar/Changedtogate.png)
 
 ### Experiment 3: Debugging a Star Triangle (Nested WHILE)
 
