@@ -441,11 +441,3 @@ My classmate's program matched the expected output in all 4 test cases. My class
 
 ---
 
-## 10. Submission Checklist
-
-- [ ] Git identity set (`user.name`, `user.email`)
-- [ ] Repository `PraktikumDaspro<NoPresensi>` is Public
-- [ ] `README.md` contains name, NIM, and class
-- [ ] `StudiKasus1XX.java` has at least 2 commits and is pushed
-- [ ] `StudiKasus2XX.java` has at least 2 commits and is pushed
-- [ ] Cross-test results appear in the classmate's `README.md`
