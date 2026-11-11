@@ -5,14 +5,12 @@ Fundamentals of Programming 2026, Politeknik Negeri Malang
 
 | | |
 |---|---|
-| Name | ...... |
-| Student ID (NIM) | ...... |
-| Class | ...... |
-| Attendance Number (NoPresensi) | ...... |
-| GitHub Username | ...... |
-| Repository URL | `https://github.com/<username>/PraktikumDaspro<NoPresensi>` |
+| Name | M. Thoriq Aadila D. |
+| Student ID (NIM) | 264107020035 |
+| Class | 1I |
+| Attendance Number (NoPresensi) | 19 |
+| GitHub Username | thoriqaadila |
 
-> **Before you submit:** replace `XX` in the file names and class names with your attendance number (for example `08`) and replace every `......` with your own data.
 
 ---
 
